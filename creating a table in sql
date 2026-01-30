@@ -1,6 +1,0 @@
-CREATE TABLE IF NOT EXISTS Levels (
-level_id INTEGER PRIMARY KEY,
-level_name VARCHAR(20) NOT NULL,
-level_creator VARCHAR(20) NOT NULL,
-level position INTEGER NOT NULL,
-points NUMERIC(6,2) NOT NULL DEFAULT 0
